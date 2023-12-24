@@ -4,12 +4,12 @@ title: about
 permalink: /
 <!--subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.-->
 
+p {fontsize: 16px}
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-  p {fontsize: 16px}
     <p>420 Vincent Hall</p>
     <p>206 Church St. SE</p>
     <p>Minneapolis, MN 55455</p>
