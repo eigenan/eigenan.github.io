@@ -18,7 +18,7 @@ nav_order: 3
         <h5 class="font-weight-bold">Calculus I</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
+        <span class="badge font-weight-bold secondary-color-dark text-uppercase align-middle">
             MATH 1271
         </span>
       </div>
@@ -41,7 +41,7 @@ nav_order: 3
         <h5 class="font-weight-bold">College Algebra & Probability</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
+        <span class="badge font-weight-bold secondary-color-dark text-uppercase align-middle">
             MATH 1031
         </span>
       </div>
@@ -64,7 +64,7 @@ nav_order: 3
         <h5 class="font-weight-bold">Linear Algebra and Differential Equations</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
+        <span class="badge font-weight-bold secondary-color-dark text-uppercase align-middle">
             MATH 2373
         </span>
       </div>
@@ -80,7 +80,7 @@ nav_order: 3
         <h5 class="font-weight-bold">Linear Algebra and Differential Equations</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
+        <span class="badge font-weight-bold secondary-color-dark text-uppercase align-middle">
             MATH 2373
         </span>
       </div>
