@@ -18,7 +18,7 @@ nav_order: 3
         <h5 class="font-weight-bold">Linear Algebra and Differential Equations</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold secondary-color-dark text-uppercase align-middle">
+        <span class="badge font-weight-bold var(--global-text-color) text-uppercase align-middle">
             MATH 2373
         </span>
       </div>
