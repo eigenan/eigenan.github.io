@@ -12,6 +12,7 @@ profile:
     <p>420 Vincent Hall</p>
     <p>206 Church St. SE</p>
     <p>Minneapolis, MN 55455</p>
+    <p>Email: li002843 AT umn DOT edu</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
