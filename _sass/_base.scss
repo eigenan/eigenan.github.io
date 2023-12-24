@@ -174,16 +174,17 @@ blockquote {
 // Profile
 
 .profile {
-  width: 100%;
+  width: 750%;
 
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
+    font-family: system-ui;
 
     p {
       display: inline-block;
       margin: 0;
+      font-size: 0.875em;
     }
   }
 }
@@ -203,7 +204,6 @@ blockquote {
     .address {
       p {
         display: block;
-        font-size: 0.875em;
       }
     }
   }
