@@ -177,14 +177,14 @@ blockquote {
   width: 50%;
 
   .more-info {
-    margin-bottom: 5px;
-    margin-top: 5px;
+    margin-bottom: 1px;
+    margin-top: 1px;
     font-family: sans-serif;
+    font-size: 0.5em;
 
     p {
       display: inline-block;
-      margin: 5px;
-      font-size: 0.5em;
+      margin: 1px;
     }
   }
 }
