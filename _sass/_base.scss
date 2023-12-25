@@ -174,27 +174,27 @@ blockquote {
 // Profile
 
 .profile {
-  width: 75%;
+  width: 50%;
 
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: Times, "Times New Roman", Georgia, serif;
+    font-family: sans-serif;
 
     p {
       display: inline-block;
-      margin: 0;
-      font-size: 0.875em;
+      margin: 5px;
+      font-size: 0.875rem;
     }
   }
 }
 
 .profile.float-right {
-  margin-left: 1rem;
+  margin-left: 5rem;
 }
 
 .profile.float-left {
-  margin-right: 1rem;
+  margin-right: 5rem;
 }
 
 @media (min-width: 576px) {
