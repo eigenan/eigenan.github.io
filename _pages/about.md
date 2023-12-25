@@ -9,10 +9,11 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
+      <b>Address:</b><br>
       420 Vincent Hall<br>
       206 Church St. SE<br>
       Minneapolis, MN 55455<br>
-      Email: li002843 AT umn DOT edu
+      <b>Email:</b> li002843 AT umn DOT edu<br>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
