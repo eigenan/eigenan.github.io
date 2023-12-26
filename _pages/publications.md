@@ -7,13 +7,17 @@ nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
-<!--<div class="publications">
+<div class="publications">
+
+<h1>Preprints</h1>
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
-</div>-->
+<h1>Publications</h1>
 
-<div class="publications">
+</div>
+
+<!--<div class="publications">
 
 <h1>preprints</h1>
 
@@ -30,4 +34,4 @@ nav_order: 1
 
 {% bibliography -f reports %}
 
-</div>
+</div>-->
