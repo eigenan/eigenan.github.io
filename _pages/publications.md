@@ -17,7 +17,7 @@ nav_order: 1
 
 <h1>Journal Articles</h1>
 
-{% bibliography -f papers %}
+{% bibliography -f {{ site.scholar.bibliography }} %}
 
 </div>
 
