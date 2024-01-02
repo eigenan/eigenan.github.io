@@ -13,9 +13,11 @@ nav_order: 1
 
 {% bibliography -f preprints %}
 
+<!--
 <h1>Journal Articles</h1>
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
+-->
 
 <h1>Undergraduate Research</h1>
 
