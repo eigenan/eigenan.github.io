@@ -14,9 +14,7 @@ nav_order: 3
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
-      <div class="text-center">
-        <h6 class="cl-sm-2 title font-weight-bold">Linear Algebra and Differential Equations</h6>
-      </div>
+        <h6 class="title font-weight-bold">Linear Algebra and Differential Equations</h6>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold text-uppercase align-middle" style="min-width: 75px;">
             MATH 2373
