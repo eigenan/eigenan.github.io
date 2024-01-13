@@ -14,7 +14,7 @@ nav_order: 3
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
-      <div class="col-sm-10 text-center">
+      <div class="text-center">
         <h6 class="title font-weight-bold">Linear Algebra and Differential Equations</h6>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
