@@ -23,7 +23,7 @@ nav_order: 3
         </span>
       </div>
     </div>
-    <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem;">Spring 2024: Teaching Assistant</h6>
+    <h6 class="mt-2 mt-sm-0" style="font-size: 0.95rem;">Spring 2024: Teaching Assistant</h6>
   </div>
 </div>
 
