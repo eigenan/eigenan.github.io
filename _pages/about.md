@@ -26,5 +26,5 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 -->
-I am a second-year PhD student in mathematics at the [University of Minnesota](https://cse.umn.edu/math) and my advisor is Arnd Scheel. I grew up in [Taiyuan, China](https://maps.app.goo.gl/nf4WHtWiRsCKhzN4A) and graduated from the [University of California, Los Angeles](https://ww3.math.ucla.edu) with a B.S. in Mathematics.
+I am a second-year PhD student in mathematics at the [University of Minnesota](https://cse.umn.edu/math) and my advisor is [Arnd Scheel](https://www-users.cse.umn.edu/~scheel/). I grew up in [Taiyuan, China](https://maps.app.goo.gl/nf4WHtWiRsCKhzN4A) and graduated from the [University of California, Los Angeles](https://ww3.math.ucla.edu) with a B.S. in Mathematics.
 
