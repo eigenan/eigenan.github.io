@@ -8,12 +8,12 @@
     # - name: Languages
     #   value: English, German
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD in Mathematics
-      institution: University of Minnesota
-      year: 2022-
+# - title: Education
+#   type: time_table
+#   contents:
+#     - title: PhD in Mathematics
+#       institution: University of Minnesota
+#       year: 2022-
      # description:
      #   - Description 1.
      #   - Description 2.
@@ -21,19 +21,19 @@
      #     contents:
      #       - Sub-description 1.
      #       - Sub-description 2.
-    - title: B.S. in Mathematics
-      institution: University of California, Los Angeles
-      year: 2022
+    # - title: B.S. in Mathematics
+    #   institution: University of California, Los Angeles
+    #   year: 2022
      # description:
      #   - Description 1.
      #   - Description 2.
 
-- title: Professional Experience
-  type: time_table
-  contents:
-    - title: Teaching Assistant
-      institution: University of Minnesota
-      year: 2022- 
+# - title: Professional Experience
+#   type: time_table
+#   contents:
+#     - title: Teaching Assistant
+#       institution: University of Minnesota
+#       year: 2022- 
 #      description:
 #        - Description 1.
 #        - Description 2.
@@ -41,9 +41,9 @@
 #          contents:
 #            - Sub-description 1.
 #            - Sub-description 2.
-    - title: Math/Statistics Tutor
-      institution: Berkeley City College
-      year: 2018-2020
+    # - title: Math/Statistics Tutor
+    #   institution: Berkeley City College
+    #   year: 2018-2020
 #      description:
 #        - Description 1.
 #        - Description 2.
