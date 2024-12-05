@@ -20,4 +20,4 @@ I am a PhD candidate in mathematics at the University of Minnesota and my adviso
 -->
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+<!--{% include_relative _includes/services.md %}-->
