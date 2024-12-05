@@ -7,6 +7,6 @@ main:
     pdf: https://arxiv.org/pdf/2312.07809.pdf
     code: 
     page: 
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+    bibtex: 
     image: ./assets/img/spiral.png
     notes: 
