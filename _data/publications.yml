@@ -9,4 +9,15 @@ main:
     page: 
     bibtex: 
     image: ./assets/img/spiral.png
-    notes: 
+    notes: Accepted
+    
+ - title: Counting compatible indexing systems for $C_{p^n}$
+    authors: Michael A. Hill and Jiayun Meng, Nan Li
+    conference_short: 
+    conference: 
+    pdf: https://arxiv.org/pdf/2212.11250.pdf
+    code: 
+    page: 
+    bibtex: 
+    image: ./assets/img/ccis.png
+    notes: Undergraduate Research
