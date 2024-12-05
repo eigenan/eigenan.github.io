@@ -3,7 +3,7 @@ main:
   - title: Anchored spirals in the driven curvature flow approximation
     authors: Nan Li, Arnd Scheel
     conference_short: 
-    conference: 
+    conference: London Math. Soc. Lecture Note Ser.
     pdf: https://arxiv.org/pdf/2312.07809.pdf
     code: 
     page: 
@@ -14,7 +14,7 @@ main:
   - title: Counting compatible indexing systems for $C_{p^n}$
     authors: Michael A. Hill and Jiayun Meng, Nan Li
     conference_short: 
-    conference: 
+    conference: Orbita Mathematicae Vol.1, No.1, 2024.
     pdf: https://arxiv.org/pdf/2212.11250.pdf
     code: 
     page: 
