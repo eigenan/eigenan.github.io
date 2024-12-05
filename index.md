@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a PhD candidate in mathematics at the University of Minnesota and my advisor is Arnd Scheel. I graduated from the University of California, Los Angeles with a B.S. in Mathematics.
 
-## Research Interests
+<!--## Research Interests
 
 - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
@@ -17,7 +17,7 @@ I am a Ph.D. student at ...
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
-
+-->
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
