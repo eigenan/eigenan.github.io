@@ -11,7 +11,7 @@ main:
     image: ./assets/img/spiral.png
     notes: Accepted
     
- - title: Counting compatible indexing systems for $C_{p^n}$
+  - title: Counting compatible indexing systems for $C_{p^n}$
     authors: Michael A. Hill and Jiayun Meng, Nan Li
     conference_short: 
     conference: 
