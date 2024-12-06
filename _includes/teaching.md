@@ -3,11 +3,11 @@
 <h4 style="margin:0 10px 0;">Teaching Assistant at the University of Minnesota</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor>MATH 1271: Calculus I Fall 2022</autocolor></li>
-  <li><autocolor>MATH 1031: College Algebra & Probability Spring 2023</autocolor></li>
-  <li><autocolor>MATH 2373: Linear Algebra and Differential Equations Fall 2023</autocolor></li>
-  <li><autocolor>MATH 2373: Linear Algebra and Differential Equations Spring 2024</autocolor></li>
-  <li><autocolor>MATH 2374: Multivariable Calculus Fall 2024</autocolor></li>
+  <li><autocolor>MATH 1271: Calculus I - Fall 2022</autocolor></li>
+  <li><autocolor>MATH 1031: College Algebra & Probability - Spring 2023</autocolor></li>
+  <li><autocolor>MATH 2373: Linear Algebra and Differential Equations - Fall 2023</autocolor></li>
+  <li><autocolor>MATH 2373: Linear Algebra and Differential Equations - Spring 2024</autocolor></li>
+  <li><autocolor>MATH 2374: Multivariable Calculus - Fall 2024</autocolor></li>
 </ul>
 
 <!--
