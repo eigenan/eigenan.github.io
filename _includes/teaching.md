@@ -1,6 +1,6 @@
-## Teaching
+## Teaching and Mentorship
 
-<h4 style="margin:0 10px 0;">University of Minnesota</h4>
+<h4 style="margin:0 10px 0;">Teaching Assistant at the University of Minnesota</h4>
 
 <ul style="margin:0 0 5px;">
   <li><autocolor>MATH 1271: Calculus I Fall 2022</autocolor></li>
