@@ -22,6 +22,8 @@ I am a PhD candidate in mathematics at the University of Minnesota and my adviso
 
 {% include_relative _includes/presentations.md %}
 
+<br/><br/>
+
 {% include_relative _includes/teaching.md %}
 
 <!--{% include_relative _includes/services.md %}-->
