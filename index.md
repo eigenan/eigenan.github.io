@@ -22,7 +22,7 @@ I am a PhD candidate in mathematics at the University of Minnesota and my adviso
 
 {% include_relative _includes/presentations.md %}
 
-<p style="font-size:15px;line-height:1;"><br/></p>
+<p style="font-size:10px;line-height:1.5;"><br/></p>
 
 {% include_relative _includes/teaching.md %}
 
