@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a PhD candidate in mathematics at the University of Minnesota and my advisor is Arnd Scheel. I graduated from the University of California, Los Angeles with a B.S. in Mathematics.
+I am a PhD candidate in mathematics at the University of Minnesota and my advisor is [Arnd Scheel](https://www-users.cse.umn.edu/~scheel/). I graduated from the University of California, Los Angeles with a B.S. in Mathematics.
 
 <!--## Research Interests
 
