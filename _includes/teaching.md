@@ -1,6 +1,6 @@
 ## Teaching and Mentorship
 
-<h4 style="margin:0 10px 0;">Teaching Assistant at the University of Minnesota</h4>
+<h4 style="margin:0 10px 0;">Teaching Assistant at University of Minnesota</h4>
 
 <ul style="margin:0 0 5px;">
   <li><autocolor>MATH 2374: Multivariable Calculus - Fall 2024</autocolor></li>
